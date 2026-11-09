@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+data/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.pkl
+*.mdb
+*.log
+.DS_Store
